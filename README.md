@@ -14,7 +14,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 #include <stdio.h>
 int main()
 {
-    char ch1, ch2, ch3,A,B,C;
+    char ch1, ch2, ch3;
     scanf(" %c", &ch1);
     scanf(" %c", &ch2);
     scanf(" %c", &ch3);
@@ -26,22 +26,7 @@ int main()
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/10992251-223c-4f24-90c8-d3eec9f6e972)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot 2025-05-27 171852](https://github.com/user-attachments/assets/75f16811-e85c-4764-8006-bf761a169a2c)
 
 
 ## RESULT:
